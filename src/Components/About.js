@@ -50,7 +50,7 @@ const About = ({ data }) => {
                 <a
                   href={resumeDownload}
                   className='button'
-                  rel='external'
+                  rel='noopener noreferrer'
                   target='_blank'
                 >
                   <i className='fa fa-download'></i>Download Resume
