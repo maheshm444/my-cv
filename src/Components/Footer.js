@@ -20,12 +20,7 @@ const Footer = ({ data }) => {
           <ul className='social-links'>{networks}</ul>
 
           <ul className='copyright'>
-            <li>
-              Made by{' '}
-              <a title='' href='#'>
-                Mahesh
-              </a>
-            </li>
+            <li>Made by Mahesh</li>
           </ul>
         </div>
         <div id='go-top'>
