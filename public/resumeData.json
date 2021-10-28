@@ -2,7 +2,7 @@
   "main": {
     "name": "Mahesh Ravi",
     "occupation": "React and React Native Developer @ Condé Nast",
-    "description": "Convert Figma designs into Real time Websites and Mobile applications",
+    "description": "Transformed Figma designs into Real time Interactive, Dynamic Websites and Mobile applications",
     "image": "profilepic.jpeg",
     "bio": "Hi there! I am Mahesh! I've been coding for over 5 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. I'm very much excited in building Web and mobile applications from Scratch.",
     "contactmessage": "Get in touch with me",
@@ -15,7 +15,7 @@
       "zip": "560-100"
     },
     "website": "https://google.com",
-    "resumedownload": "https://drive.google.com/file/d/1MVnAd6syA80vlHrZMxalrapYQ4YzZosi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/11W78XiEnwMQu1iyS9OhY0djxCUfwUOoK/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -66,11 +66,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
-        "name": "ReactJs",
+        "name": "React Native",
         "level": "90%"
+      },
+      {
+        "name": "Data structures and algorithms",
+        "level": "80%"
       },
       {
         "name": "Javascript & ES6",
@@ -103,6 +107,12 @@
         "category": "Health care and E-commerce",
         "image": "Dralkas.jpeg",
         "url": "https://github.com/maheshm444/Dralkas"
+      },
+      {
+        "title": "Website for a startup",
+        "category": "Learning and Education",
+        "image": "i01_geekspro.png",
+        "url": "https://github.com/maheshm444/startup-code.git"
       }
     ]
   },
@@ -110,7 +120,7 @@
     "testimonials": [
       {
         "text": "Mahesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Matthew Murphy"
+        "user": "David Hudson"
       },
       {
         "text": "The product design from Mahesh was very much methodical and well planned, It was a great working with him.",
