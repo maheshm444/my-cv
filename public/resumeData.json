@@ -120,11 +120,15 @@
     "testimonials": [
       {
         "text": "Mahesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "David Hudson"
+        "user": "David Hudson",
+        "designation": "Engineering Manager",
+        "company": "Carl Zeiss"
       },
       {
         "text": "The product design from Mahesh was very much methodical and well planned, It was a great working with him.",
-        "user": "Emily Wadsworth"
+        "user": "Emily Wadsworth",
+        "designation": "Senior Business Lead",
+        "company": "Condé Nast Publications"
       }
     ]
   }

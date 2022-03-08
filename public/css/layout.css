@@ -703,6 +703,14 @@ call-to-action .button {
    line-height: 18px;
    color: #fff;
 }
+#testimonials blockquote .text-company {
+   display: block;
+   font-size: 12px;
+   font-style: normal;
+   line-height: 18px;
+   color: #fff;
+}
+
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }

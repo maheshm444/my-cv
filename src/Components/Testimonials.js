@@ -8,6 +8,8 @@ const Testimonials = ({ data }) => {
           <blockquote>
             <p>{testimonials.text}</p>
             <cite>{testimonials.user}</cite>
+            <em>{testimonials.designation}</em>
+            <p class="text-company">{testimonials.company}</p>
           </blockquote>
         </li>
       );
